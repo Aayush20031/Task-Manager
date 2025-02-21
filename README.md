@@ -10,4 +10,6 @@ Modern UI 🎨: Responsive and visually appealing interface with Tailwind CSS.
 Fast and Scalable 🚀: Built with React and TypeScript for high performance.
 Deployed on Vercel ☁️: Ensuring seamless and fast deployment.
 
+Video Demo-  https://drive.google.com/file/d/1EitS-mxtNdkyJmAauUxlhnPI9GVeYpaj/view?usp=sharing
+
 ![image](https://github.com/user-attachments/assets/b249401b-0923-4fc9-bdc0-17697b231ce0)
